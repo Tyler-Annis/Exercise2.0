@@ -7,11 +7,3 @@ print('Question')
 print('Why?')
 print ('Answer')
 print('it allows you to keep track of your work and ajustments')
-echo "# Exercise2.0" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Tyler-Annis/Exercise2.0.git
-git push -u origin main
-
